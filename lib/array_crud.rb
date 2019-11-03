@@ -47,5 +47,4 @@ end
 
 def update_element_from_index(array, index_number, element)
   array[2] = "totally"
-  p array[2]  
 end
